@@ -10,11 +10,24 @@ https://public.tableau.com/app/profile/ritwik.thakar/viz/NYCitiBikesAssignment/N
 
 ## Results 
 
+### Top Starting locations
+
+By looking at this map, we see that majority of the users use the bicycles for commuting within the city centre. The density of these starting points is more in the city center areas and is very less in the suburbs.
+
+![img1](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img1.PNG)
+
+
+### Top Ending locations
+
+By looking at this map, we see that even top ending locations for mose the users is within the city centre. The density is relatively less in the suburbs.
+
+![img2](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img2.PNG)
+
+
 ### Checkout Times for Users
 
 By looking at the checkout times by user chart, we see at majority of the users use the bicycles for less than one hour. Data shows that between the 15 to 20 minute mark, number of uses who ride bicycles start declining.
 
-![img1](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img1.PNG)
-
+![img3](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img3.PNG)
 
 
