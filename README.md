@@ -44,3 +44,11 @@ By looking at this heat map we can draw a conclusion that demand for citi bikes 
 
 ![img5](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img5.PNG)
 
+
+### Trips by Gender (Weekday per Hour)
+
+Based on the heat map it appears that demand for citi bikes is high during the morning hours between 7:00 am to 9:00 am and in the evenings between 5:00pm to 7:00pm during the weekdays amongst the male population. 
+
+![img6](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img6.PNG)
+
+
