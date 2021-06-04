@@ -31,3 +31,10 @@ By looking at the checkout times by user chart, we see at majority of the users 
 ![img3](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img3.PNG)
 
 
+### Checkout Times by Gender
+
+Checkout times by gender shows us that approximately 109,000 of the male population uses bicycles for commuting within the city while slightly over 30,000 females and over 5000 participants who did not disclose gender use this service.  
+
+![img4](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img4.PNG)
+
+
