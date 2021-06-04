@@ -38,3 +38,9 @@ Checkout times by gender shows us that approximately 109,000 of the male populat
 ![img4](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img4.PNG)
 
 
+### Trips by Weekday per Hour
+
+By looking at this heat map we can draw a conclusion that demand for citi bikes is high during the morning hours between 7:00 am to 9:00 am and in the evenings between 5:00pm to 7:00pm during the weekdays. It also appears that bikes are popular mode of coomute durng the weekends especially on saturday between 9:00am and 6:00pm
+
+![img5](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img5.PNG)
+
