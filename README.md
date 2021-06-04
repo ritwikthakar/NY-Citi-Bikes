@@ -14,4 +14,7 @@ https://public.tableau.com/app/profile/ritwik.thakar/viz/NYCitiBikesAssignment/N
 
 By looking at the checkout times by user chart, we see at majority of the users use the bicycles for less than one hour. Data shows that between the 15 to 20 minute mark, number of uses who ride bicycles start declining.
 
+![img1](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img1.PNG)
+
+
 
