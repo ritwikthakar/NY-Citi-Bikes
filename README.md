@@ -56,5 +56,8 @@ Based on the map it appears that there are lot of sucbscribers for this service 
 
 ![img7](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img7.PNG)
 
+## Summary
+
+Citi bikes are a popular mode of commute within the city center areas of New York city. Majority of the subscribers are from the male population. During the weekdays &:00 am to 9:00am and 5:00pm to 7:00pm sem to be the popualar time slots for these bike users. Over 130,000 in the city use this service. Most of the rides are between 15 to 20 min. Max rifding time is slightly less than an hour. This could be prove be a profitable venture in the long term with changing trends.
 
 
