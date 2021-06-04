@@ -12,7 +12,8 @@ https://public.tableau.com/app/profile/ritwik.thakar/viz/NYCitiBikesAssignment/N
 
 ### Top Starting locations
 
-By looking at this map, we see that majority of the users use the bicycles for commuting within the city centre. The density of these starting points is more in the city center areas and is very less in the suburbs.
+By looking at this map, we see that majority of the users use the bicycles for commuting within the city centre. The density of these starting points is more in the city center 
+areas and is very less in the suburbs.
 
 ![img1](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img1.PNG)
 
@@ -26,38 +27,43 @@ By looking at this map, we see that even top ending locations for mose the users
 
 ### Checkout Times for Users
 
-By looking at the checkout times by user chart, we see at majority of the users use the bicycles for less than one hour. Data shows that between the 15 to 20 minute mark, number of uses who ride bicycles start declining.
+By looking at the checkout times by user chart, we see at majority of the users use the bicycles for less than one hour. Data shows that between the 15 to 20 minute mark, number 
+of uses who ride bicycles start declining.
 
 ![img3](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img3.PNG)
 
 
 ### Checkout Times by Gender
 
-Checkout times by gender shows us that approximately 109,000 of the male population uses bicycles for commuting within the city while slightly over 30,000 females and over 5000 participants who did not disclose gender use this service.  
+Checkout times by gender shows us that approximately 109,000 of the male population uses bicycles for commuting within the city while slightly over 30,000 females and over 5000 
+participants who did not disclose gender use this service.  
 
 ![img4](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img4.PNG)
 
 
 ### Trips by Weekday per Hour
 
-By looking at this heat map we can draw a conclusion that demand for citi bikes is high during the morning hours between 7:00 am to 9:00 am and in the evenings between 5:00pm to 7:00pm during the weekdays. It also appears that bikes are popular mode of coomute durng the weekends especially on saturday between 9:00am and 6:00pm
+By looking at this heat map we can draw a conclusion that demand for citi bikes is high during the morning hours between 7:00 am to 9:00 am and in the evenings between 5:00pm to 
+7:00pm during the weekdays. It also appears that bikes are popular mode of coomute durng the weekends especially on saturday between 9:00am and 6:00pm
 
 ![img5](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img5.PNG)
 
 ### Trips by Gender (Weekday per Hour)
 
-Based on the heat map it appears that demand for citi bikes is high during the morning hours between 7:00 am to 9:00 am and in the evenings between 5:00pm to 7:00pm during the weekdays amongst the male population. 
+Based on the heat map it appears that demand for citi bikes is high during the morning hours between 7:00 am to 9:00 am and in the evenings between 5:00pm to 7:00pm during the 
+weekdays amongst the male population. 
 
 ![img6](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img6.PNG)
 
 ### Users Trips by Gender by Weekday 
 
-Based on the map it appears that there are lot of sucbscribers for this service who use the service regularly compared to regular customers. The male population seems to for the majority of the subscrbers. 
+Based on the map it appears that there are lot of sucbscribers for this service who use the service regularly compared to regular customers. The male population seems to for the 
+majority of the subscrbers. 
 
 ![img7](https://github.com/ritwikthakar/NY-Citi-Bikes/blob/main/Images/img7.PNG)
 
+
 ## Summary
-
-Citi bikes are a popular mode of commute within the city center areas of New York city. Majority of the subscribers are from the male population. During the weekdays &:00 am to 9:00am and 5:00pm to 7:00pm sem to be the popualar time slots for these bike users. Over 130,000 in the city use this service. Most of the rides are between 15 to 20 min. Max rifding time is slightly less than an hour. This could be prove be a profitable venture in the long term with changing trends.
-
-
+Citi bikes are a popular mode of commute within the city center areas of New York city. Majority of the subscribers are from the male population. During the weekdays &:00 am to 
+9:00am and 5:00pm to 7:00pm sem to be the popualar time slots for these bike users. Over 130,000 in the city use this service. Most of the rides are between 15 to 20 min. Max 
+rifding time is slightly less than an hour. This could be prove be a profitable venture in the long term with changing trends.
